@@ -1,3 +1,3 @@
 ## Colour scheme
 
-![colour scheme](https://muslimsmeetonline/platform/blob/master/colour_scheme.png?raw=true)
+![colour scheme](https://github.com/muslimsmeetonline/platform/blob/master/colour_scheme.png?raw=true)
